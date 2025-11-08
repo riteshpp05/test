@@ -1,0 +1,19 @@
+# Python venv
+venv/
+env/
+.bajaj/
+.venv/
+
+# Environment variables
+.env
+
+# __pycache__
+__pycache__/
+
+# IDE stuff
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,23 @@
+pypdf==5.6.1
+python-dotenv==1.1.0
+
+# LangChain stable 0.3.x ecosystem
+langchain==0.3.26
+langchain-core==0.3.79
+langchain-community==0.3.26
+langchain-text-splitters==0.3.2
+langchain-pinecone==0.2.8
+langchain-openai==0.3.24
+langchain-google-genai==2.0.1
+langchain-huggingface==1.0.1
+
+# OCR + PDF parsing (simple, no Poppler required)
+unstructured[pdf]==0.15.12
+unstructured-inference==0.7.23
+pytesseract==0.3.10
+
+# Optional—but you asked for it
+pdf2image==1.17.0
+
+# Other dependencies
+requests>=2.31.0
