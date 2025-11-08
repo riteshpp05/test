@@ -81,7 +81,6 @@ Now, open your browser and visit:
 ```
 http://127.0.0.1:5000
 ```
+## Chatbot UI
 
-
-
-
+![alt text](<Screenshot 2025-11-08 134709.png>)
